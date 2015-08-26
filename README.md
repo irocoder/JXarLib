@@ -1,0 +1,2 @@
+#JXarLib
+A trimmed-down port from the C++ XarLib.  Dependencies: LWJGL 3.0
